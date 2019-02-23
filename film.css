@@ -1,0 +1,28 @@
+.icons ul li{
+    float: left;
+    background-color:grey;
+    list-style: none;
+
+}
+.icons ul li a{
+    padding: 10px;
+    text-decoration: none;
+    border: 2px white solid;
+}
+.socialmedia{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    padding: 20px 0px;
+}
+.icons{
+    width: 100%;
+    height: auto;
+    margin: auto;
+
+}
+.icons ul {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
